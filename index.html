@@ -1,0 +1,224 @@
+<html><head>
+    <meta charset="UTF-8">
+    <title>Audio samples from "Semi-supervised Generative Modeling for Controllable End-to-end Text-to-Speech and Voice Conversion"</title>
+  </head>
+    <article>
+      <header>
+        <h1>Audio samples from "Emotional Voice Conversion with Semi-Supervised Generative Modeling"</h1>
+      </header>
+    </article>
+
+    <p><b>Authors</b>: Hai Zhu, Huayi Zhan, Hong Cheng, Ying Wu </p>
+
+    <div><b>Abstract:</b>
+        <br> Emotional Vocal Conversion (EVC) is a task that aims to convert the emotional state of speech from one to another while preserving the linguistic information and identity of the speaker.Previous works have been limited to converting parallel and labelled emotional speech data, which is not wildly available in real-life applications. To solve this problem, in this paper, we propose SGEVC, a novel semi-supervised generative model for emotional voice conversion. The proposed method constructs a continuous latent space of disentangled representations of linguistic, speaker identity, and emotion attribute. In addition, we introduce the TTS (Text-to-encoder) into EVC to guide linguistic information and design the SGEVC framework in an end-to-end manner. We can prove that as low as 1% supervised data (20 minutes) is enough to perform the emotional voice conversion. Experimental results show that our proposed model achieves extraordinary performance and consistently outperforms EVC baseline frameworks.<br><br>
+    </div>
+
+    <p class="toc_title">Contents</p>
+    <div id="toc_container">
+    <ul>
+      <li><a href="#vc">Emotional voice conversion</a></li>
+    </ul>
+    </div>
+
+    <p>&nbsp;</p>
+      <div>
+     We conduct experiments on the emotional speech dataset (ESD). The dataset consists of 350 parallel utterances with an average duration of 2.9 seconds recorded by 10 native Mandarin speakers and 10 native English speakers. For each speaker, the corpus consists of five emotions as follows: happy, sad, neutral, angry, and surprised. In this paper, we only consider the Mandarin speakers in emotional dataset. For each speaker, we conduct emotion conversion from neutral to happy (N2H), neutral to angry (N2A), neutral to sad (N2S1), and neutral to surprised (N2S2). For each pair, we split the corpus into training set (330 samples) and testing set (20 samples). To make sure that our proposed model is trained under non-parallel conditions, we randomly shuffle the training set and construct non-parallel utterances for each training batch.
+
+      <p>&nbsp;</p>
+
+      <a name="vc"><h2>Emotional voice conversion</h2></a>
+
+      <a name="vc.sample"><h3>neutral-to-happy</h3></a>
+       <table>
+        <tbody>
+        <tr>
+          <td nowrap="">Source</td>
+          <td><audio controls=""><source src="Source/Neutral/0001_000001.wav"></audio></td>
+          <td><audio controls=""><source src="Source/Neutral/0002_000002.wav"></audio></td>
+          <td><audio controls=""><source src="Source/Neutral/0004_000004.wav"></audio></td>
+          <td><audio controls=""><source src="Source/Neutral/0005_000005.wav"></audio></td>
+        <tr>
+        <tr>
+          <td nowrap="">Target</td>
+          <td><audio controls=""><source src="Target/Happy/0001_000701.wav"></audio></td>
+          <td><audio controls=""><source src="Target/Happy/0002_000702.wav"></audio></td>
+          <td><audio controls=""><source src="Target/Happy/0004_000704.wav"></audio></td>
+          <td><audio controls=""><source src="Target/Happy/0005_000705.wav"></audio></td>
+        </tr>
+        <tr>
+          <td nowrap="">StarGAN</td>
+          <td><audio controls=""><source src="StarGAN/SN-TH/0001-1.wav"></audio></td>
+          <td><audio controls=""><source src="StarGAN/SN-TH/0002-2.wav"></audio></td>
+          <td><audio controls=""><source src="StarGAN/SN-TH/0004-4.wav"></audio></td>
+          <td><audio controls=""><source src="StarGAN/SN-TH/0005-5.wav"></audio></td>
+        </tr>
+        <tr>
+          <td nowrap="">PPG</td>
+          <td><audio controls=""><source src="PPG/SN-TH/0001-1-16k.wav"></audio></td>
+          <td><audio controls=""><source src="PPG/SN-TH/0002-2-16k.wav"></audio></td>
+          <td><audio controls=""><source src="PPG/SN-TH/0004-4-16k.wav"></audio></td>
+          <td><audio controls=""><source src="PPG/SN-TH/0005-5-16k.wav"></audio></td>
+        </tr>
+        <tr>
+          <td nowrap="">SGEVC1</td>
+          <td><audio controls=""><source src="SGEVC1/SN-TH/0001-1-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC1/SN-TH/0002-2-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC1/SN-TH/0004-4-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC1/SN-TH/0005-5-16k.wav"></audio></td>
+        </tr>
+        <tr>
+          <td nowrap="">SGEVC10</td>
+          <td><audio controls=""><source src="SGEVC10/SN-TH/0001-1-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC10/SN-TH/0002-2-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC10/SN-TH/0004-4-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC10/SN-TH/0005-5-16k.wav"></audio></td>
+        </tr>
+      </tbody></table>
+
+      <a name="vc.sample"><h3>neutral-to-angry</h3></a>
+       <table>
+        <tbody>
+        <tr>
+          <td nowrap="">Source</td>
+          <td><audio controls=""><source src="Source/Neutral/0001_000001.wav"></audio></td>
+          <td><audio controls=""><source src="Source/Neutral/0002_000002.wav"></audio></td>
+          <td><audio controls=""><source src="Source/Neutral/0004_000004.wav"></audio></td>
+          <td><audio controls=""><source src="Source/Neutral/0005_000005.wav"></audio></td>
+        <tr>
+        <tr>
+          <td nowrap="">Target</td>
+          <td><audio controls=""><source src="Target/Angry/0001_000351.wav"></audio></td>
+          <td><audio controls=""><source src="Target/Angry/0002_000352.wav"></audio></td>
+          <td><audio controls=""><source src="Target/Angry/0004_000354.wav"></audio></td>
+          <td><audio controls=""><source src="Target/Angry/0005_000355.wav"></audio></td>
+        </tr>
+        <tr>
+          <td nowrap="">StarGAN</td>
+          <td><audio controls=""><source src="StarGAN/SN-TA/0001-1.wav"></audio></td>
+          <td><audio controls=""><source src="StarGAN/SN-TA/0002-2.wav"></audio></td>
+          <td><audio controls=""><source src="StarGAN/SN-TA/0004-4.wav"></audio></td>
+          <td><audio controls=""><source src="StarGAN/SN-TA/0005-5.wav"></audio></td>
+        </tr>
+        <tr>
+          <td nowrap="">PPG</td>
+          <td><audio controls=""><source src="PPG/SN-TA/0001-1-16k.wav"></audio></td>
+          <td><audio controls=""><source src="PPG/SN-TA/0002-2-16k.wav"></audio></td>
+          <td><audio controls=""><source src="PPG/SN-TA/0004-4-16k.wav"></audio></td>
+          <td><audio controls=""><source src="PPG/SN-TA/0005-5-16k.wav"></audio></td>
+        </tr>
+        <tr>
+          <td nowrap="">SGEVC1</td>
+          <td><audio controls=""><source src="SGEVC1/SN-TA/0001-1-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC1/SN-TA/0002-2-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC1/SN-TA/0004-4-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC1/SN-TA/0005-5-16k.wav"></audio></td>
+        </tr>
+        <tr>
+          <td nowrap="">SGEVC10</td>
+          <td><audio controls=""><source src="SGEVC10/SN-TA/0001-1-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC10/SN-TA/0002-2-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC10/SN-TA/0004-4-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC10/SN-TA/0005-5-16k.wav"></audio></td>
+        </tr>
+      </tbody></table>
+
+      <a name="vc.sample"><h3>neutral-to-sad</h3></a>
+       <table>
+        <tbody>
+        <tr>
+          <td nowrap="">Source</td>
+          <td><audio controls=""><source src="Source/Neutral/0001_000001.wav"></audio></td>
+          <td><audio controls=""><source src="Source/Neutral/0002_000002.wav"></audio></td>
+          <td><audio controls=""><source src="Source/Neutral/0004_000004.wav"></audio></td>
+          <td><audio controls=""><source src="Source/Neutral/0005_000005.wav"></audio></td>
+        <tr>
+        <tr>
+          <td nowrap="">Target</td>
+          <td><audio controls=""><source src="Target/Sad/0001_001051.wav"></audio></td>
+          <td><audio controls=""><source src="Target/Sad/0002_001052.wav"></audio></td>
+          <td><audio controls=""><source src="Target/Sad/0004_001054.wav"></audio></td>
+          <td><audio controls=""><source src="Target/Sad/0005_001055.wav"></audio></td>
+        </tr>
+        <tr>
+          <td nowrap="">StarGAN</td>
+          <td><audio controls=""><source src="StarGAN/SN-TS1/0001-1.wav"></audio></td>
+          <td><audio controls=""><source src="StarGAN/SN-TS1/0002-2.wav"></audio></td>
+          <td><audio controls=""><source src="StarGAN/SN-TS1/0004-4.wav"></audio></td>
+          <td><audio controls=""><source src="StarGAN/SN-TS1/0005-5.wav"></audio></td>
+        </tr>
+        <tr>
+          <td nowrap="">PPG</td>
+          <td><audio controls=""><source src="PPG/SN-TS1/0001-1-16k.wav"></audio></td>
+          <td><audio controls=""><source src="PPG/SN-TS1/0002-2-16k.wav"></audio></td>
+          <td><audio controls=""><source src="PPG/SN-TS1/0004-4-16k.wav"></audio></td>
+          <td><audio controls=""><source src="PPG/SN-TS1/0005-5-16k.wav"></audio></td>
+        </tr>
+        <tr>
+          <td nowrap="">SGEVC1</td>
+          <td><audio controls=""><source src="SGEVC1/SN-TS1/0001-1-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC1/SN-TS1/0002-2-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC1/SN-TS1/0004-4-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC1/SN-TS1/0005-5-16k.wav"></audio></td>
+        </tr>
+        <tr>
+          <td nowrap="">SGEVC10</td>
+          <td><audio controls=""><source src="SGEVC10/SN-TS1/0001-1-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC10/SN-TS1/0002-2-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC10/SN-TS1/0004-4-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC10/SN-TS1/0005-5-16k.wav"></audio></td>
+        </tr>
+      </tbody></table>
+
+      <a name="vc.sample"><h3>neutral-to-surprise</h3></a>
+       <table>
+        <tbody>
+        <tr>
+          <td nowrap="">Source</td>
+          <td><audio controls=""><source src="Source/Neutral/0001_000001.wav"></audio></td>
+          <td><audio controls=""><source src="Source/Neutral/0002_000002.wav"></audio></td>
+          <td><audio controls=""><source src="Source/Neutral/0004_000004.wav"></audio></td>
+          <td><audio controls=""><source src="Source/Neutral/0005_000005.wav"></audio></td>
+        <tr>
+        <tr>
+          <td nowrap="">Target</td>
+          <td><audio controls=""><source src="Target/Surprise/0001_001401.wav"></audio></td>
+          <td><audio controls=""><source src="Target/Surprise/0002_001402.wav"></audio></td>
+          <td><audio controls=""><source src="Target/Surprise/0004_001404.wav"></audio></td>
+          <td><audio controls=""><source src="Target/Surprise/0005_001405.wav"></audio></td>
+        </tr>
+        <tr>
+          <td nowrap="">StarGAN</td>
+          <td><audio controls=""><source src="StarGAN/SN-TS2/0001-1.wav"></audio></td>
+          <td><audio controls=""><source src="StarGAN/SN-TS1/0002-2.wav"></audio></td>
+          <td><audio controls=""><source src="StarGAN/SN-TS2/0004-4.wav"></audio></td>
+          <td><audio controls=""><source src="StarGAN/SN-TS2/0005-5.wav"></audio></td>
+        </tr>
+        <tr>
+          <td nowrap="">PPG</td>
+          <td><audio controls=""><source src="PPG/SN-TS2/0001-1-16k.wav"></audio></td>
+          <td><audio controls=""><source src="PPG/SN-TS2/0002-2-16k.wav"></audio></td>
+          <td><audio controls=""><source src="PPG/SN-TS2/0004-4-16k.wav"></audio></td>
+          <td><audio controls=""><source src="PPG/SN-TS2/0005-5-16k.wav"></audio></td>
+        </tr>
+        <tr>
+          <td nowrap="">SGEVC1</td>
+          <td><audio controls=""><source src="SGEVC1/SN-TS2/0001-1-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC1/SN-TS2/0002-2-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC1/SN-TS2/0004-4-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC1/SN-TS2/0005-5-16k.wav"></audio></td>
+        </tr>
+        <tr>
+          <td nowrap="">SGEVC10</td>
+          <td><audio controls=""><source src="SGEVC10/SN-TS2/0001-1-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC10/SN-TS2/0002-2-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC10/SN-TS2/0004-4-16k.wav"></audio></td>
+          <td><audio controls=""><source src="SGEVC10/SN-TS2/0005-5-16k.wav"></audio></td>
+        </tr>
+      </tbody></table>
+
+
+
+    </div>
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
