@@ -1,0 +1,1000 @@
+0001_000001.wav|0|0|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0001_000002.wav|0|0|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0001_000003.wav|0|0|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0001_000004.wav|0|0|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0001_000005.wav|0|0|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0001_000006.wav|0|0|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0001_000007.wav|0|0|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0001_000008.wav|0|0|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0001_000009.wav|0|0|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0001_000010.wav|0|0|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0001_000011.wav|0|0|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0001_000012.wav|0|0|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0001_000013.wav|0|0|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0001_000014.wav|0|0|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0001_000015.wav|0|0|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0001_000016.wav|0|0|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0001_000017.wav|0|0|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0001_000018.wav|0|0|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0001_000019.wav|0|0|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0001_000020.wav|0|0|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0001_000351.wav|0|1|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0001_000352.wav|0|1|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0001_000353.wav|0|1|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0001_000354.wav|0|1|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0001_000355.wav|0|1|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0001_000356.wav|0|1|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0001_000357.wav|0|1|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0001_000358.wav|0|1|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0001_000359.wav|0|1|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0001_000360.wav|0|1|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0001_000361.wav|0|1|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0001_000362.wav|0|1|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0001_000363.wav|0|1|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0001_000364.wav|0|1|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0001_000365.wav|0|1|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0001_000366.wav|0|1|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0001_000367.wav|0|1|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0001_000368.wav|0|1|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0001_000369.wav|0|1|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0001_000370.wav|0|1|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0001_000701.wav|0|2|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0001_000702.wav|0|2|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0001_000703.wav|0|2|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0001_000704.wav|0|2|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0001_000705.wav|0|2|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0001_000706.wav|0|2|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0001_000707.wav|0|2|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0001_000708.wav|0|2|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0001_000709.wav|0|2|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0001_000710.wav|0|2|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0001_000711.wav|0|2|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0001_000712.wav|0|2|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0001_000713.wav|0|2|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0001_000714.wav|0|2|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0001_000715.wav|0|2|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0001_000716.wav|0|2|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0001_000717.wav|0|2|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0001_000718.wav|0|2|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0001_000719.wav|0|2|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0001_000720.wav|0|2|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0001_001051.wav|0|3|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0001_001052.wav|0|3|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0001_001053.wav|0|3|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0001_001054.wav|0|3|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0001_001055.wav|0|3|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0001_001056.wav|0|3|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0001_001057.wav|0|3|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0001_001058.wav|0|3|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0001_001059.wav|0|3|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0001_001060.wav|0|3|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0001_001061.wav|0|3|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0001_001062.wav|0|3|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0001_001063.wav|0|3|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0001_001064.wav|0|3|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0001_001065.wav|0|3|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0001_001066.wav|0|3|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0001_001067.wav|0|3|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0001_001068.wav|0|3|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0001_001069.wav|0|3|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0001_001070.wav|0|3|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0001_001401.wav|0|4|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0001_001402.wav|0|4|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0001_001403.wav|0|4|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0001_001404.wav|0|4|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0001_001405.wav|0|4|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0001_001406.wav|0|4|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0001_001407.wav|0|4|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0001_001408.wav|0|4|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0001_001409.wav|0|4|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0001_001410.wav|0|4|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0001_001411.wav|0|4|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0001_001412.wav|0|4|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0001_001413.wav|0|4|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0001_001414.wav|0|4|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0001_001415.wav|0|4|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0001_001416.wav|0|4|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0001_001417.wav|0|4|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0001_001418.wav|0|4|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0001_001419.wav|0|4|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0001_001420.wav|0|4|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0002_000001.wav|1|0|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0002_000002.wav|1|0|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0002_000003.wav|1|0|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0002_000004.wav|1|0|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0002_000005.wav|1|0|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0002_000006.wav|1|0|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0002_000007.wav|1|0|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0002_000008.wav|1|0|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0002_000009.wav|1|0|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0002_000010.wav|1|0|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0002_000011.wav|1|0|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0002_000012.wav|1|0|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0002_000013.wav|1|0|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0002_000014.wav|1|0|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0002_000015.wav|1|0|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0002_000016.wav|1|0|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0002_000017.wav|1|0|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0002_000018.wav|1|0|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0002_000019.wav|1|0|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0002_000020.wav|1|0|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0002_000351.wav|1|1|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0002_000352.wav|1|1|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0002_000353.wav|1|1|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0002_000354.wav|1|1|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0002_000355.wav|1|1|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0002_000356.wav|1|1|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0002_000357.wav|1|1|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0002_000358.wav|1|1|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0002_000359.wav|1|1|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0002_000360.wav|1|1|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0002_000361.wav|1|1|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0002_000362.wav|1|1|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0002_000363.wav|1|1|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0002_000364.wav|1|1|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0002_000365.wav|1|1|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0002_000366.wav|1|1|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0002_000367.wav|1|1|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0002_000368.wav|1|1|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0002_000369.wav|1|1|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0002_000370.wav|1|1|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0002_000701.wav|1|2|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0002_000702.wav|1|2|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0002_000703.wav|1|2|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0002_000704.wav|1|2|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0002_000705.wav|1|2|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0002_000706.wav|1|2|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0002_000707.wav|1|2|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0002_000708.wav|1|2|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0002_000709.wav|1|2|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0002_000710.wav|1|2|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0002_000711.wav|1|2|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0002_000712.wav|1|2|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0002_000713.wav|1|2|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0002_000714.wav|1|2|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0002_000715.wav|1|2|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0002_000716.wav|1|2|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0002_000717.wav|1|2|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0002_000718.wav|1|2|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0002_000719.wav|1|2|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0002_000720.wav|1|2|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0002_001051.wav|1|3|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0002_001052.wav|1|3|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0002_001053.wav|1|3|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0002_001054.wav|1|3|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0002_001055.wav|1|3|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0002_001056.wav|1|3|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0002_001057.wav|1|3|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0002_001058.wav|1|3|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0002_001059.wav|1|3|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0002_001060.wav|1|3|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0002_001061.wav|1|3|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0002_001062.wav|1|3|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0002_001063.wav|1|3|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0002_001064.wav|1|3|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0002_001065.wav|1|3|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0002_001066.wav|1|3|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0002_001067.wav|1|3|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0002_001068.wav|1|3|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0002_001069.wav|1|3|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0002_001070.wav|1|3|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0002_001401.wav|1|4|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0002_001402.wav|1|4|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0002_001403.wav|1|4|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0002_001404.wav|1|4|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0002_001405.wav|1|4|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0002_001406.wav|1|4|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0002_001407.wav|1|4|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0002_001408.wav|1|4|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0002_001409.wav|1|4|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0002_001410.wav|1|4|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0002_001411.wav|1|4|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0002_001412.wav|1|4|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0002_001413.wav|1|4|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0002_001414.wav|1|4|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0002_001415.wav|1|4|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0002_001416.wav|1|4|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0002_001417.wav|1|4|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0002_001418.wav|1|4|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0002_001419.wav|1|4|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0002_001420.wav|1|4|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0003_000001.wav|2|0|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0003_000002.wav|2|0|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0003_000003.wav|2|0|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0003_000004.wav|2|0|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0003_000005.wav|2|0|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0003_000006.wav|2|0|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0003_000007.wav|2|0|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0003_000008.wav|2|0|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0003_000009.wav|2|0|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0003_000010.wav|2|0|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0003_000011.wav|2|0|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0003_000012.wav|2|0|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0003_000013.wav|2|0|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0003_000014.wav|2|0|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0003_000015.wav|2|0|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0003_000016.wav|2|0|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0003_000017.wav|2|0|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0003_000018.wav|2|0|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0003_000019.wav|2|0|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0003_000020.wav|2|0|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0003_000351.wav|2|1|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0003_000352.wav|2|1|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0003_000353.wav|2|1|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0003_000354.wav|2|1|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0003_000355.wav|2|1|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0003_000356.wav|2|1|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0003_000357.wav|2|1|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0003_000358.wav|2|1|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0003_000359.wav|2|1|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0003_000360.wav|2|1|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0003_000361.wav|2|1|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0003_000362.wav|2|1|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0003_000363.wav|2|1|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0003_000364.wav|2|1|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0003_000365.wav|2|1|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0003_000366.wav|2|1|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0003_000367.wav|2|1|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0003_000368.wav|2|1|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0003_000369.wav|2|1|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0003_000370.wav|2|1|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0003_000701.wav|2|2|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0003_000702.wav|2|2|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0003_000703.wav|2|2|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0003_000704.wav|2|2|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0003_000705.wav|2|2|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0003_000706.wav|2|2|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0003_000707.wav|2|2|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0003_000708.wav|2|2|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0003_000709.wav|2|2|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0003_000710.wav|2|2|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0003_000711.wav|2|2|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0003_000712.wav|2|2|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0003_000713.wav|2|2|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0003_000714.wav|2|2|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0003_000715.wav|2|2|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0003_000716.wav|2|2|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0003_000717.wav|2|2|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0003_000718.wav|2|2|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0003_000719.wav|2|2|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0003_000720.wav|2|2|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0003_001051.wav|2|3|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0003_001052.wav|2|3|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0003_001053.wav|2|3|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0003_001054.wav|2|3|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0003_001055.wav|2|3|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0003_001056.wav|2|3|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0003_001057.wav|2|3|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0003_001058.wav|2|3|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0003_001059.wav|2|3|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0003_001060.wav|2|3|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0003_001061.wav|2|3|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0003_001062.wav|2|3|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0003_001063.wav|2|3|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0003_001064.wav|2|3|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0003_001065.wav|2|3|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0003_001066.wav|2|3|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0003_001067.wav|2|3|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0003_001068.wav|2|3|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0003_001069.wav|2|3|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0003_001070.wav|2|3|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0003_001401.wav|2|4|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0003_001402.wav|2|4|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0003_001403.wav|2|4|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0003_001404.wav|2|4|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0003_001405.wav|2|4|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0003_001406.wav|2|4|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0003_001407.wav|2|4|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0003_001408.wav|2|4|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0003_001409.wav|2|4|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0003_001410.wav|2|4|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0003_001411.wav|2|4|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0003_001412.wav|2|4|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0003_001413.wav|2|4|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0003_001414.wav|2|4|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0003_001415.wav|2|4|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0003_001416.wav|2|4|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0003_001417.wav|2|4|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0003_001418.wav|2|4|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0003_001419.wav|2|4|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0003_001420.wav|2|4|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0004_000001.wav|3|0|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0004_000002.wav|3|0|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0004_000003.wav|3|0|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0004_000004.wav|3|0|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0004_000005.wav|3|0|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0004_000006.wav|3|0|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0004_000007.wav|3|0|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0004_000008.wav|3|0|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0004_000009.wav|3|0|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0004_000010.wav|3|0|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0004_000011.wav|3|0|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0004_000012.wav|3|0|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0004_000013.wav|3|0|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0004_000014.wav|3|0|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0004_000015.wav|3|0|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0004_000016.wav|3|0|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0004_000017.wav|3|0|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0004_000018.wav|3|0|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0004_000019.wav|3|0|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0004_000020.wav|3|0|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0004_000351.wav|3|1|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0004_000352.wav|3|1|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0004_000353.wav|3|1|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0004_000354.wav|3|1|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0004_000355.wav|3|1|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0004_000356.wav|3|1|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0004_000357.wav|3|1|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0004_000358.wav|3|1|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0004_000359.wav|3|1|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0004_000360.wav|3|1|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0004_000361.wav|3|1|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0004_000362.wav|3|1|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0004_000363.wav|3|1|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0004_000364.wav|3|1|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0004_000365.wav|3|1|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0004_000366.wav|3|1|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0004_000367.wav|3|1|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0004_000368.wav|3|1|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0004_000369.wav|3|1|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0004_000370.wav|3|1|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0004_000701.wav|3|2|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0004_000702.wav|3|2|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0004_000703.wav|3|2|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0004_000704.wav|3|2|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0004_000705.wav|3|2|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0004_000706.wav|3|2|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0004_000707.wav|3|2|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0004_000708.wav|3|2|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0004_000709.wav|3|2|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0004_000710.wav|3|2|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0004_000711.wav|3|2|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0004_000712.wav|3|2|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0004_000713.wav|3|2|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0004_000714.wav|3|2|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0004_000715.wav|3|2|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0004_000716.wav|3|2|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0004_000717.wav|3|2|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0004_000718.wav|3|2|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0004_000719.wav|3|2|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0004_000720.wav|3|2|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0004_001051.wav|3|3|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0004_001052.wav|3|3|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0004_001053.wav|3|3|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0004_001054.wav|3|3|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0004_001055.wav|3|3|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0004_001056.wav|3|3|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0004_001057.wav|3|3|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0004_001058.wav|3|3|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0004_001059.wav|3|3|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0004_001060.wav|3|3|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0004_001061.wav|3|3|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0004_001062.wav|3|3|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0004_001063.wav|3|3|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0004_001064.wav|3|3|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0004_001065.wav|3|3|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0004_001066.wav|3|3|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0004_001067.wav|3|3|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0004_001068.wav|3|3|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0004_001069.wav|3|3|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0004_001070.wav|3|3|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0004_001401.wav|3|4|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0004_001402.wav|3|4|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0004_001403.wav|3|4|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0004_001404.wav|3|4|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0004_001405.wav|3|4|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0004_001406.wav|3|4|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0004_001407.wav|3|4|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0004_001408.wav|3|4|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0004_001409.wav|3|4|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0004_001410.wav|3|4|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0004_001411.wav|3|4|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0004_001412.wav|3|4|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0004_001413.wav|3|4|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0004_001414.wav|3|4|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0004_001415.wav|3|4|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0004_001416.wav|3|4|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0004_001417.wav|3|4|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0004_001418.wav|3|4|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0004_001419.wav|3|4|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0004_001420.wav|3|4|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0005_000001.wav|4|0|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0005_000002.wav|4|0|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0005_000003.wav|4|0|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0005_000004.wav|4|0|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0005_000005.wav|4|0|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0005_000006.wav|4|0|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0005_000007.wav|4|0|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0005_000008.wav|4|0|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0005_000009.wav|4|0|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0005_000010.wav|4|0|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0005_000011.wav|4|0|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0005_000012.wav|4|0|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0005_000013.wav|4|0|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0005_000014.wav|4|0|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0005_000015.wav|4|0|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0005_000016.wav|4|0|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0005_000017.wav|4|0|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0005_000018.wav|4|0|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0005_000019.wav|4|0|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0005_000020.wav|4|0|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0005_000351.wav|4|1|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0005_000352.wav|4|1|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0005_000353.wav|4|1|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0005_000354.wav|4|1|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0005_000355.wav|4|1|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0005_000356.wav|4|1|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0005_000357.wav|4|1|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0005_000358.wav|4|1|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0005_000359.wav|4|1|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0005_000360.wav|4|1|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0005_000361.wav|4|1|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0005_000362.wav|4|1|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0005_000363.wav|4|1|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0005_000364.wav|4|1|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0005_000365.wav|4|1|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0005_000366.wav|4|1|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0005_000367.wav|4|1|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0005_000368.wav|4|1|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0005_000369.wav|4|1|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0005_000370.wav|4|1|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0005_000701.wav|4|2|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0005_000702.wav|4|2|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0005_000703.wav|4|2|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0005_000704.wav|4|2|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0005_000705.wav|4|2|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0005_000706.wav|4|2|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0005_000707.wav|4|2|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0005_000708.wav|4|2|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0005_000709.wav|4|2|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0005_000710.wav|4|2|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0005_000711.wav|4|2|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0005_000712.wav|4|2|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0005_000713.wav|4|2|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0005_000714.wav|4|2|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0005_000715.wav|4|2|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0005_000716.wav|4|2|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0005_000717.wav|4|2|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0005_000718.wav|4|2|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0005_000719.wav|4|2|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0005_000720.wav|4|2|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0005_001051.wav|4|3|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0005_001052.wav|4|3|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0005_001053.wav|4|3|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0005_001054.wav|4|3|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0005_001055.wav|4|3|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0005_001056.wav|4|3|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0005_001057.wav|4|3|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0005_001058.wav|4|3|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0005_001059.wav|4|3|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0005_001060.wav|4|3|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0005_001061.wav|4|3|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0005_001062.wav|4|3|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0005_001063.wav|4|3|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0005_001064.wav|4|3|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0005_001065.wav|4|3|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0005_001066.wav|4|3|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0005_001067.wav|4|3|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0005_001068.wav|4|3|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0005_001069.wav|4|3|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0005_001070.wav|4|3|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0005_001401.wav|4|4|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0005_001402.wav|4|4|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0005_001403.wav|4|4|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0005_001404.wav|4|4|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0005_001405.wav|4|4|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0005_001406.wav|4|4|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0005_001407.wav|4|4|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0005_001408.wav|4|4|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0005_001409.wav|4|4|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0005_001410.wav|4|4|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0005_001411.wav|4|4|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0005_001412.wav|4|4|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0005_001413.wav|4|4|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0005_001414.wav|4|4|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0005_001415.wav|4|4|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0005_001416.wav|4|4|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0005_001417.wav|4|4|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0005_001418.wav|4|4|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0005_001419.wav|4|4|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0005_001420.wav|4|4|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0006_000001.wav|5|0|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0006_000002.wav|5|0|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0006_000003.wav|5|0|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0006_000004.wav|5|0|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0006_000005.wav|5|0|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0006_000006.wav|5|0|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0006_000007.wav|5|0|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0006_000008.wav|5|0|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0006_000009.wav|5|0|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0006_000010.wav|5|0|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0006_000011.wav|5|0|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0006_000012.wav|5|0|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0006_000013.wav|5|0|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0006_000014.wav|5|0|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0006_000015.wav|5|0|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0006_000016.wav|5|0|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0006_000017.wav|5|0|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0006_000018.wav|5|0|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0006_000019.wav|5|0|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0006_000020.wav|5|0|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0006_000351.wav|5|1|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0006_000352.wav|5|1|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0006_000353.wav|5|1|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0006_000354.wav|5|1|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0006_000355.wav|5|1|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0006_000356.wav|5|1|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0006_000357.wav|5|1|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0006_000358.wav|5|1|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0006_000359.wav|5|1|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0006_000360.wav|5|1|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0006_000361.wav|5|1|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0006_000362.wav|5|1|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0006_000363.wav|5|1|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0006_000364.wav|5|1|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0006_000365.wav|5|1|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0006_000366.wav|5|1|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0006_000367.wav|5|1|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0006_000368.wav|5|1|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0006_000369.wav|5|1|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0006_000370.wav|5|1|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0006_000701.wav|5|2|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0006_000702.wav|5|2|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0006_000703.wav|5|2|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0006_000704.wav|5|2|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0006_000705.wav|5|2|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0006_000706.wav|5|2|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0006_000707.wav|5|2|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0006_000708.wav|5|2|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0006_000709.wav|5|2|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0006_000710.wav|5|2|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0006_000711.wav|5|2|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0006_000712.wav|5|2|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0006_000713.wav|5|2|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0006_000714.wav|5|2|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0006_000715.wav|5|2|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0006_000716.wav|5|2|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0006_000717.wav|5|2|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0006_000718.wav|5|2|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0006_000719.wav|5|2|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0006_000720.wav|5|2|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0006_001051.wav|5|3|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0006_001052.wav|5|3|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0006_001053.wav|5|3|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0006_001054.wav|5|3|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0006_001055.wav|5|3|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0006_001056.wav|5|3|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0006_001057.wav|5|3|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0006_001058.wav|5|3|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0006_001059.wav|5|3|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0006_001060.wav|5|3|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0006_001061.wav|5|3|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0006_001062.wav|5|3|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0006_001063.wav|5|3|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0006_001064.wav|5|3|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0006_001065.wav|5|3|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0006_001066.wav|5|3|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0006_001067.wav|5|3|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0006_001068.wav|5|3|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0006_001069.wav|5|3|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0006_001070.wav|5|3|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0006_001401.wav|5|4|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0006_001402.wav|5|4|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0006_001403.wav|5|4|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0006_001404.wav|5|4|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0006_001405.wav|5|4|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0006_001406.wav|5|4|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0006_001407.wav|5|4|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0006_001408.wav|5|4|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0006_001409.wav|5|4|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0006_001410.wav|5|4|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0006_001411.wav|5|4|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0006_001412.wav|5|4|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0006_001413.wav|5|4|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0006_001414.wav|5|4|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0006_001415.wav|5|4|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0006_001416.wav|5|4|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0006_001417.wav|5|4|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0006_001418.wav|5|4|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0006_001419.wav|5|4|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0006_001420.wav|5|4|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0007_000001.wav|6|0|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0007_000002.wav|6|0|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0007_000003.wav|6|0|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0007_000004.wav|6|0|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0007_000005.wav|6|0|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0007_000006.wav|6|0|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0007_000007.wav|6|0|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0007_000008.wav|6|0|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0007_000009.wav|6|0|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0007_000010.wav|6|0|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0007_000011.wav|6|0|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0007_000012.wav|6|0|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0007_000013.wav|6|0|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0007_000014.wav|6|0|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0007_000015.wav|6|0|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0007_000016.wav|6|0|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0007_000017.wav|6|0|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0007_000018.wav|6|0|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0007_000019.wav|6|0|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0007_000020.wav|6|0|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0007_000351.wav|6|1|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0007_000352.wav|6|1|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0007_000353.wav|6|1|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0007_000354.wav|6|1|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0007_000355.wav|6|1|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0007_000356.wav|6|1|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0007_000357.wav|6|1|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0007_000358.wav|6|1|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0007_000359.wav|6|1|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0007_000360.wav|6|1|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0007_000361.wav|6|1|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0007_000362.wav|6|1|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0007_000363.wav|6|1|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0007_000364.wav|6|1|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0007_000365.wav|6|1|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0007_000366.wav|6|1|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0007_000367.wav|6|1|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0007_000368.wav|6|1|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0007_000369.wav|6|1|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0007_000370.wav|6|1|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0007_000701.wav|6|2|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0007_000702.wav|6|2|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0007_000703.wav|6|2|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0007_000704.wav|6|2|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0007_000705.wav|6|2|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0007_000706.wav|6|2|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0007_000707.wav|6|2|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0007_000708.wav|6|2|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0007_000709.wav|6|2|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0007_000710.wav|6|2|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0007_000711.wav|6|2|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0007_000712.wav|6|2|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0007_000713.wav|6|2|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0007_000714.wav|6|2|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0007_000715.wav|6|2|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0007_000716.wav|6|2|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0007_000717.wav|6|2|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0007_000718.wav|6|2|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0007_000719.wav|6|2|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0007_000720.wav|6|2|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0007_001051.wav|6|3|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0007_001052.wav|6|3|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0007_001053.wav|6|3|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0007_001054.wav|6|3|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0007_001055.wav|6|3|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0007_001056.wav|6|3|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0007_001057.wav|6|3|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0007_001058.wav|6|3|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0007_001059.wav|6|3|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0007_001060.wav|6|3|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0007_001061.wav|6|3|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0007_001062.wav|6|3|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0007_001063.wav|6|3|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0007_001064.wav|6|3|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0007_001065.wav|6|3|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0007_001066.wav|6|3|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0007_001067.wav|6|3|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0007_001068.wav|6|3|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0007_001069.wav|6|3|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0007_001070.wav|6|3|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0007_001401.wav|6|4|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0007_001402.wav|6|4|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0007_001403.wav|6|4|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0007_001404.wav|6|4|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0007_001405.wav|6|4|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0007_001406.wav|6|4|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0007_001407.wav|6|4|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0007_001408.wav|6|4|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0007_001409.wav|6|4|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0007_001410.wav|6|4|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0007_001411.wav|6|4|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0007_001412.wav|6|4|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0007_001413.wav|6|4|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0007_001414.wav|6|4|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0007_001415.wav|6|4|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0007_001416.wav|6|4|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0007_001417.wav|6|4|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0007_001418.wav|6|4|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0007_001419.wav|6|4|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0007_001420.wav|6|4|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0008_000001.wav|7|0|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0008_000002.wav|7|0|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0008_000003.wav|7|0|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0008_000004.wav|7|0|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0008_000005.wav|7|0|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0008_000006.wav|7|0|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0008_000007.wav|7|0|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0008_000008.wav|7|0|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0008_000009.wav|7|0|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0008_000010.wav|7|0|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0008_000011.wav|7|0|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0008_000012.wav|7|0|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0008_000013.wav|7|0|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0008_000014.wav|7|0|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0008_000015.wav|7|0|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0008_000016.wav|7|0|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0008_000017.wav|7|0|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0008_000018.wav|7|0|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0008_000019.wav|7|0|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0008_000020.wav|7|0|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0008_000351.wav|7|1|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0008_000352.wav|7|1|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0008_000353.wav|7|1|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0008_000354.wav|7|1|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0008_000355.wav|7|1|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0008_000356.wav|7|1|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0008_000357.wav|7|1|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0008_000358.wav|7|1|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0008_000359.wav|7|1|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0008_000360.wav|7|1|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0008_000361.wav|7|1|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0008_000362.wav|7|1|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0008_000363.wav|7|1|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0008_000364.wav|7|1|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0008_000365.wav|7|1|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0008_000366.wav|7|1|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0008_000367.wav|7|1|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0008_000368.wav|7|1|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0008_000369.wav|7|1|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0008_000370.wav|7|1|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0008_000701.wav|7|2|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0008_000702.wav|7|2|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0008_000703.wav|7|2|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0008_000704.wav|7|2|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0008_000705.wav|7|2|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0008_000706.wav|7|2|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0008_000707.wav|7|2|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0008_000708.wav|7|2|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0008_000709.wav|7|2|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0008_000710.wav|7|2|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0008_000711.wav|7|2|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0008_000712.wav|7|2|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0008_000713.wav|7|2|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0008_000714.wav|7|2|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0008_000715.wav|7|2|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0008_000716.wav|7|2|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0008_000717.wav|7|2|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0008_000718.wav|7|2|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0008_000719.wav|7|2|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0008_000720.wav|7|2|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0008_001051.wav|7|3|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0008_001052.wav|7|3|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0008_001053.wav|7|3|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0008_001054.wav|7|3|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0008_001055.wav|7|3|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0008_001056.wav|7|3|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0008_001057.wav|7|3|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0008_001058.wav|7|3|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0008_001059.wav|7|3|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0008_001060.wav|7|3|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0008_001061.wav|7|3|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0008_001062.wav|7|3|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0008_001063.wav|7|3|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0008_001064.wav|7|3|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0008_001065.wav|7|3|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0008_001066.wav|7|3|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0008_001067.wav|7|3|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0008_001068.wav|7|3|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0008_001069.wav|7|3|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0008_001070.wav|7|3|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0008_001401.wav|7|4|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0008_001402.wav|7|4|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0008_001403.wav|7|4|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0008_001404.wav|7|4|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0008_001405.wav|7|4|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0008_001406.wav|7|4|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0008_001407.wav|7|4|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0008_001408.wav|7|4|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0008_001409.wav|7|4|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0008_001410.wav|7|4|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0008_001411.wav|7|4|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0008_001412.wav|7|4|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0008_001413.wav|7|4|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0008_001414.wav|7|4|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0008_001415.wav|7|4|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0008_001416.wav|7|4|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0008_001417.wav|7|4|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0008_001418.wav|7|4|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0008_001419.wav|7|4|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0008_001420.wav|7|4|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z2 t e4 z0 b ie2 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0009_000001.wav|8|0|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0009_000002.wav|8|0|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0009_000003.wav|8|0|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0009_000004.wav|8|0|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0009_000005.wav|8|0|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0009_000006.wav|8|0|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0009_000007.wav|8|0|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0009_000008.wav|8|0|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0009_000009.wav|8|0|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0009_000010.wav|8|0|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0009_000011.wav|8|0|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0009_000012.wav|8|0|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 j iou4 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0009_000013.wav|8|0|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0009_000014.wav|8|0|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0009_000015.wav|8|0|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0009_000016.wav|8|0|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0009_000017.wav|8|0|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0009_000018.wav|8|0|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0009_000019.wav|8|0|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0009_000020.wav|8|0|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0009_000351.wav|8|1|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0009_000352.wav|8|1|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0009_000353.wav|8|1|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0009_000354.wav|8|1|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0009_000355.wav|8|1|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0009_000356.wav|8|1|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0009_000357.wav|8|1|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0009_000358.wav|8|1|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0009_000359.wav|8|1|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0009_000360.wav|8|1|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0009_000361.wav|8|1|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0009_000362.wav|8|1|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0009_000363.wav|8|1|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0009_000364.wav|8|1|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0009_000365.wav|8|1|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0009_000366.wav|8|1|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0009_000367.wav|8|1|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0009_000368.wav|8|1|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0009_000369.wav|8|1|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0009_000370.wav|8|1|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0009_000701.wav|8|2|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0009_000702.wav|8|2|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0009_000703.wav|8|2|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0009_000704.wav|8|2|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0009_000705.wav|8|2|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0009_000706.wav|8|2|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0009_000707.wav|8|2|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0009_000708.wav|8|2|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0009_000709.wav|8|2|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0009_000710.wav|8|2|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0009_000711.wav|8|2|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0009_000712.wav|8|2|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0009_000713.wav|8|2|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0009_000714.wav|8|2|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0009_000715.wav|8|2|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0009_000716.wav|8|2|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0009_000717.wav|8|2|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0009_000718.wav|8|2|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0009_000719.wav|8|2|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0009_000720.wav|8|2|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0009_001051.wav|8|3|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0009_001052.wav|8|3|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 sh uo1 z0 g uo4 z3 sil
+0009_001053.wav|8|3|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0009_001054.wav|8|3|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0009_001055.wav|8|3|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0009_001056.wav|8|3|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0009_001057.wav|8|3|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0009_001058.wav|8|3|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0009_001059.wav|8|3|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0009_001060.wav|8|3|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0009_001061.wav|8|3|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0009_001062.wav|8|3|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0009_001063.wav|8|3|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0009_001064.wav|8|3|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0009_001065.wav|8|3|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0009_001066.wav|8|3|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0009_001067.wav|8|3|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0009_001068.wav|8|3|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0009_001069.wav|8|3|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0009_001070.wav|8|3|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0009_001401.wav|8|4|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0009_001402.wav|8|4|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0009_001403.wav|8|4|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0009_001404.wav|8|4|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0009_001405.wav|8|4|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0009_001406.wav|8|4|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0009_001407.wav|8|4|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0009_001408.wav|8|4|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0009_001409.wav|8|4|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0009_001410.wav|8|4|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0009_001411.wav|8|4|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0009_001412.wav|8|4|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0009_001413.wav|8|4|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0009_001414.wav|8|4|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0009_001415.wav|8|4|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0009_001416.wav|8|4|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0009_001417.wav|8|4|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 d e2 z1 ^ iong4 z0 d ao4 z0 l e5 z3 sil
+0009_001418.wav|8|4|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0009_001419.wav|8|4|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0009_001420.wav|8|4|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0010_000001.wav|9|0|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0010_000002.wav|9|0|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0010_000003.wav|9|0|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0010_000004.wav|9|0|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0010_000005.wav|9|0|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0010_000006.wav|9|0|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0010_000007.wav|9|0|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0010_000008.wav|9|0|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0010_000009.wav|9|0|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0010_000010.wav|9|0|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0010_000011.wav|9|0|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0010_000012.wav|9|0|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0010_000013.wav|9|0|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0010_000014.wav|9|0|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0010_000015.wav|9|0|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0010_000016.wav|9|0|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0010_000017.wav|9|0|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0010_000018.wav|9|0|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0010_000019.wav|9|0|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0010_000020.wav|9|0|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0010_000351.wav|9|1|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0010_000352.wav|9|1|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0010_000353.wav|9|1|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0010_000354.wav|9|1|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0010_000355.wav|9|1|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0010_000356.wav|9|1|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0010_000357.wav|9|1|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0010_000358.wav|9|1|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0010_000359.wav|9|1|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0010_000360.wav|9|1|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0010_000361.wav|9|1|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0010_000362.wav|9|1|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0010_000363.wav|9|1|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0010_000364.wav|9|1|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0010_000365.wav|9|1|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0010_000366.wav|9|1|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0010_000367.wav|9|1|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0010_000368.wav|9|1|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0010_000369.wav|9|1|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0010_000370.wav|9|1|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0010_000701.wav|9|2|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0010_000702.wav|9|2|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0010_000703.wav|9|2|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0010_000704.wav|9|2|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0010_000705.wav|9|2|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0010_000706.wav|9|2|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0010_000707.wav|9|2|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0010_000708.wav|9|2|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0010_000709.wav|9|2|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0010_000710.wav|9|2|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0010_000711.wav|9|2|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0010_000712.wav|9|2|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0010_000713.wav|9|2|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0010_000714.wav|9|2|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0010_000715.wav|9|2|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0010_000716.wav|9|2|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0010_000717.wav|9|2|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0010_000718.wav|9|2|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0010_000719.wav|9|2|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0010_000720.wav|9|2|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0010_001051.wav|9|3|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0010_001052.wav|9|3|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0010_001053.wav|9|3|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0010_001054.wav|9|3|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0010_001055.wav|9|3|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0010_001056.wav|9|3|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0010_001057.wav|9|3|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0010_001058.wav|9|3|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0010_001059.wav|9|3|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0010_001060.wav|9|3|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0010_001061.wav|9|3|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0010_001062.wav|9|3|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0010_001063.wav|9|3|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0010_001064.wav|9|3|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0010_001065.wav|9|3|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0010_001066.wav|9|3|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0010_001067.wav|9|3|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0010_001068.wav|9|3|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0010_001069.wav|9|3|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0010_001070.wav|9|3|sil q ian2 z0 l iang3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
+0010_001401.wav|9|4|sil d a2 z0 ^ van3 z1 ^ i2 z0 k an4 z3 t a1 z0 m en5 z1 d i2 z0 q ve4 z2 h en3 z0 sh iii4 z1 m ei3 z0 l i4 z3 sil
+0010_001402.wav|9|4|sil ^ ing1 z0 g uo2 z0 d e5 z1 zh e2 z0 x ve2 z0 j ia1 z2 c eng2 z0 j ing1 z1 sh uo1 z0 g uo4 z3 sil
+0010_001403.wav|9|4|sil ^ uo2 z1 l ao3 z0 j ia1 z2 z ai4 z1 b ei3 z0 j ing1 z3 ^ ua1 z0 s ai4 z1 t ai4 z0 j ing1 z0 c ai3 z0 l e5 z3 sil
+0010_001404.wav|9|4|sil b u4 z0 g uan2 z0 z en3 z0 m e5 z0 sh uo1 z3 zh u3 z0 d uei4 z1 h ao3 z0 x iang4 z2 sh iii4 z1 zh iii4 z0 z ai4 z1 d uo2 z0 k uei2 z3 sil
+0010_001405.wav|9|4|sil ^ uo3 z0 m en5 z1 ch eng2 z0 ch uan2 z2 p iao1 z0 ^ iou2 z0 l e5 z1 s an1 z0 x ia2 z3 zh en1 z0 sh iii4 z1 c ii4 z0 j i1 z3 sil
+0010_001406.wav|9|4|sil ^ uo2 z1 x i3 z0 h uan5 z1 b ei3 z0 j ing1 z1 h uan1 z0 ^ ing2 z0 n i3 z3 sil
+0010_001407.wav|9|4|sil ^ uo2 z1 m ei3 z0 g e4 z0 ^ ve4 z2 d a3 z1 ^ i2 z0 c ii4 z1 d ian4 z0 h ua4 z3 sil
+0010_001408.wav|9|4|sil sh a1 z0 ch en2 z0 b ao4 z2 h ao3 z0 x iang4 z1 g ei2 z2 m ei3 z0 g e4 z0 r en2 z2 d ou1 z1 d ai4 z0 l ai2 z0 l e5 z1 m a2 z0 f an5 z3 sil
+0010_001409.wav|9|4|sil j iou4 z0 sh iii4 z1 zh e4 z0 g e5 z1 ^ i4 z0 s ii5 z3 n i3 z0 ^ iou4 z1 c ong1 z0 m ing5 z1 ^ iou4 z1 h ao3 z0 k an4 z3 sil
+0010_001410.wav|9|4|sil g e4 z0 r en2 z1 sh ou1 z0 c ang2 z0 j ia1 z3 t a1 z0 m en5 z1 k en3 z0 d ing4 z0 ^ iou3 z3 sil
+0010_001411.wav|9|4|sil f u4 z0 n v3 z0 j ie2 z1 k uai4 z0 l e4 z3 ^ uo3 z1 ^ iong2 z0 ^ van3 z1 ^ ai4 z0 n i3 z3 m a1 z0 m a5 z3 sil
+0010_001412.wav|9|4|sil n i2 z1 m ei3 z0 c ii4 z1 t an2 z0 l ian4 z0 ^ ai4 z2 d ou1 z0 x iang4 z1 x ian4 z0 z ai4 z1 zh e4 z0 ^ iang4 z3 sil
+0010_001413.wav|9|4|sil zh ou1 z0 m o4 z0 d e5 z1 ^ uo2 z3 zh iii3 z1 m ang2 z0 zh e5 z1 p ei2 z0 n i3 z3 sil
+0010_001414.wav|9|4|sil sh ei2 z0 n i2 z1 ^ ie3 z0 b u2 z1 r en4 z0 sh iii5 z3 ^ uo2 z1 h en3 z1 l e4 z0 ^ i4 z1 b ang1 z0 zh u4 z0 n i3 z3 sil
+0010_001415.wav|9|4|sil ^ uo3 z1 t e4 z0 b ie2 z1 x i3 z0 h uan5 z1 ^ uang3 z0 q iou2 z2 h e2 z1 d eng1 z0 sh an1 z3 sil
+0010_001416.wav|9|4|sil t a1 z1 ^ i2 z0 d ing4 z1 sh iii4 z1 ^ i4 z0 ^ ian3 z2 j iou4 z1 b ei4 z0 n i3 z1 m i2 z0 zh u4 z0 l e5 z3 sil
+0010_001417.wav|9|4|sil h en3 z0 k uai4 z2 n i3 z0 sh ang4 z1 d a4 z0 x ve2 z2 j iou4 z0 ^ iong4 z1 d e2 z0 d ao4 z0 l e5 z3 sil
+0010_001418.wav|9|4|sil ^ uo3 z0 m en5 z1 ^ i4 z0 j ian4 z2 b u4 z0 h e2 z3 z an2 z0 m en5 z1 q v4 z0 n a4 z0 r5 z1 ^ uan2 z0 b a5 z3 sil
+0010_001419.wav|9|4|sil b u2 z0 j iou4 z0 sh iii4 z1 n i3 z0 m a5 z3 ^ uei4 z0 sh en2 z0 m e5 z2 ^ iao4 z1 t ou1 z0 x iao4 z0 l ai2 z3 sil
+0010_001420.wav|9|4|sil q ian2 z0 j i3 z0 t ian1 z2 ^ uo3 z1 p eng4 z0 j ian4 z0 l e5 z1 ^ i2 z0 j ian4 z1 ^ iou3 z0 q v4 z0 d e5 z1 sh iii4 z0 r5 z3 sil
