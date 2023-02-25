@@ -1,0 +1,1000 @@
+/data/DATA/ESD-wavs-22k/0001_000051.wav|0|0|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000052.wav|0|0|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000053.wav|0|0|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000054.wav|0|0|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000055.wav|0|0|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000056.wav|0|0|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000057.wav|0|0|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000058.wav|0|0|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000059.wav|0|0|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000060.wav|0|0|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000061.wav|0|0|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000062.wav|0|0|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000063.wav|0|0|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000064.wav|0|0|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000065.wav|0|0|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000066.wav|0|0|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000067.wav|0|0|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000068.wav|0|0|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000069.wav|0|0|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000070.wav|0|0|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000401.wav|0|1|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000402.wav|0|1|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000403.wav|0|1|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000404.wav|0|1|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000405.wav|0|1|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000406.wav|0|1|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000407.wav|0|1|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000408.wav|0|1|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000409.wav|0|1|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000410.wav|0|1|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000411.wav|0|1|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000412.wav|0|1|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000413.wav|0|1|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000414.wav|0|1|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000415.wav|0|1|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000416.wav|0|1|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000417.wav|0|1|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000418.wav|0|1|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000419.wav|0|1|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000420.wav|0|1|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000751.wav|0|2|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000752.wav|0|2|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000753.wav|0|2|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000754.wav|0|2|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000755.wav|0|2|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000756.wav|0|2|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000757.wav|0|2|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000758.wav|0|2|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000759.wav|0|2|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000760.wav|0|2|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000761.wav|0|2|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000762.wav|0|2|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000763.wav|0|2|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000764.wav|0|2|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000765.wav|0|2|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000766.wav|0|2|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000767.wav|0|2|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000768.wav|0|2|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000769.wav|0|2|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_000770.wav|0|2|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001101.wav|0|3|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001102.wav|0|3|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001103.wav|0|3|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001104.wav|0|3|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001105.wav|0|3|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001106.wav|0|3|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001107.wav|0|3|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001108.wav|0|3|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001109.wav|0|3|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001110.wav|0|3|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001111.wav|0|3|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001112.wav|0|3|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001113.wav|0|3|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001114.wav|0|3|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001115.wav|0|3|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001116.wav|0|3|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001117.wav|0|3|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001118.wav|0|3|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001119.wav|0|3|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001120.wav|0|3|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001451.wav|0|4|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001452.wav|0|4|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001453.wav|0|4|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001454.wav|0|4|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001455.wav|0|4|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001456.wav|0|4|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001457.wav|0|4|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001458.wav|0|4|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001459.wav|0|4|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001460.wav|0|4|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001461.wav|0|4|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001462.wav|0|4|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001463.wav|0|4|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001464.wav|0|4|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001465.wav|0|4|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001466.wav|0|4|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001467.wav|0|4|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001468.wav|0|4|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001469.wav|0|4|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0001_001470.wav|0|4|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000051.wav|1|0|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000052.wav|1|0|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000053.wav|1|0|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000054.wav|1|0|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000055.wav|1|0|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000056.wav|1|0|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000057.wav|1|0|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000058.wav|1|0|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000059.wav|1|0|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000060.wav|1|0|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000061.wav|1|0|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000062.wav|1|0|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000063.wav|1|0|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000064.wav|1|0|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000065.wav|1|0|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000066.wav|1|0|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000067.wav|1|0|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000068.wav|1|0|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000069.wav|1|0|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000070.wav|1|0|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000401.wav|1|1|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000402.wav|1|1|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000403.wav|1|1|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000404.wav|1|1|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000405.wav|1|1|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000406.wav|1|1|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000407.wav|1|1|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000408.wav|1|1|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000409.wav|1|1|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000410.wav|1|1|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000411.wav|1|1|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000412.wav|1|1|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000413.wav|1|1|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000414.wav|1|1|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000415.wav|1|1|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000416.wav|1|1|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000417.wav|1|1|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000418.wav|1|1|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000419.wav|1|1|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000420.wav|1|1|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000751.wav|1|2|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000752.wav|1|2|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000753.wav|1|2|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000754.wav|1|2|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000755.wav|1|2|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000756.wav|1|2|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000757.wav|1|2|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000758.wav|1|2|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000759.wav|1|2|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000760.wav|1|2|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000761.wav|1|2|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000762.wav|1|2|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000763.wav|1|2|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000764.wav|1|2|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000765.wav|1|2|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000766.wav|1|2|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000767.wav|1|2|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000768.wav|1|2|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000769.wav|1|2|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_000770.wav|1|2|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001101.wav|1|3|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001102.wav|1|3|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001103.wav|1|3|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001104.wav|1|3|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001105.wav|1|3|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001106.wav|1|3|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001107.wav|1|3|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001108.wav|1|3|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001109.wav|1|3|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001110.wav|1|3|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001111.wav|1|3|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001112.wav|1|3|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001113.wav|1|3|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001114.wav|1|3|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001115.wav|1|3|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001116.wav|1|3|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001117.wav|1|3|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001118.wav|1|3|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001119.wav|1|3|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001120.wav|1|3|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001451.wav|1|4|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001452.wav|1|4|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001453.wav|1|4|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001454.wav|1|4|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001455.wav|1|4|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001456.wav|1|4|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001457.wav|1|4|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001458.wav|1|4|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001459.wav|1|4|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001460.wav|1|4|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001461.wav|1|4|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001462.wav|1|4|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001463.wav|1|4|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001464.wav|1|4|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001465.wav|1|4|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001466.wav|1|4|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001467.wav|1|4|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001468.wav|1|4|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001469.wav|1|4|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0002_001470.wav|1|4|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000051.wav|2|0|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000052.wav|2|0|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000053.wav|2|0|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000054.wav|2|0|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000055.wav|2|0|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000056.wav|2|0|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000057.wav|2|0|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000058.wav|2|0|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000059.wav|2|0|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000060.wav|2|0|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000061.wav|2|0|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000062.wav|2|0|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000063.wav|2|0|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000064.wav|2|0|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000065.wav|2|0|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000066.wav|2|0|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000067.wav|2|0|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000068.wav|2|0|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000069.wav|2|0|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000070.wav|2|0|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000401.wav|2|1|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000402.wav|2|1|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000403.wav|2|1|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000404.wav|2|1|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000405.wav|2|1|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000406.wav|2|1|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000407.wav|2|1|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000408.wav|2|1|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000409.wav|2|1|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000410.wav|2|1|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000411.wav|2|1|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000412.wav|2|1|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000413.wav|2|1|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000414.wav|2|1|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000415.wav|2|1|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000416.wav|2|1|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000417.wav|2|1|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000418.wav|2|1|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000419.wav|2|1|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000420.wav|2|1|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000751.wav|2|2|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000752.wav|2|2|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000753.wav|2|2|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000754.wav|2|2|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000755.wav|2|2|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000756.wav|2|2|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000757.wav|2|2|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000758.wav|2|2|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000759.wav|2|2|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000760.wav|2|2|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000761.wav|2|2|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000762.wav|2|2|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000763.wav|2|2|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000764.wav|2|2|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000765.wav|2|2|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000766.wav|2|2|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000767.wav|2|2|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000768.wav|2|2|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000769.wav|2|2|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_000770.wav|2|2|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001101.wav|2|3|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001102.wav|2|3|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001103.wav|2|3|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001104.wav|2|3|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001105.wav|2|3|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001106.wav|2|3|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001107.wav|2|3|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001108.wav|2|3|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001109.wav|2|3|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001110.wav|2|3|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001111.wav|2|3|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001112.wav|2|3|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001113.wav|2|3|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001114.wav|2|3|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001115.wav|2|3|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001116.wav|2|3|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001117.wav|2|3|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001118.wav|2|3|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001119.wav|2|3|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001120.wav|2|3|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001451.wav|2|4|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001452.wav|2|4|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001453.wav|2|4|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001454.wav|2|4|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001455.wav|2|4|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001456.wav|2|4|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001457.wav|2|4|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001458.wav|2|4|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001459.wav|2|4|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001460.wav|2|4|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001461.wav|2|4|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001462.wav|2|4|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001463.wav|2|4|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001464.wav|2|4|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001465.wav|2|4|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001466.wav|2|4|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001467.wav|2|4|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001468.wav|2|4|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001469.wav|2|4|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0003_001470.wav|2|4|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000051.wav|3|0|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000052.wav|3|0|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000053.wav|3|0|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000054.wav|3|0|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000055.wav|3|0|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000056.wav|3|0|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000057.wav|3|0|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000058.wav|3|0|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000059.wav|3|0|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000060.wav|3|0|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000061.wav|3|0|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000062.wav|3|0|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000063.wav|3|0|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000064.wav|3|0|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000065.wav|3|0|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000066.wav|3|0|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000067.wav|3|0|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000068.wav|3|0|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000069.wav|3|0|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000070.wav|3|0|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000401.wav|3|1|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000402.wav|3|1|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000403.wav|3|1|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000404.wav|3|1|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000405.wav|3|1|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000406.wav|3|1|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000407.wav|3|1|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000408.wav|3|1|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000409.wav|3|1|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000410.wav|3|1|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000411.wav|3|1|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000412.wav|3|1|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000413.wav|3|1|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000414.wav|3|1|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000415.wav|3|1|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000416.wav|3|1|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000417.wav|3|1|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000418.wav|3|1|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000419.wav|3|1|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000420.wav|3|1|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000751.wav|3|2|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000752.wav|3|2|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000753.wav|3|2|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000754.wav|3|2|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000755.wav|3|2|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000756.wav|3|2|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000757.wav|3|2|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000758.wav|3|2|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000759.wav|3|2|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000760.wav|3|2|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000761.wav|3|2|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000762.wav|3|2|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000763.wav|3|2|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000764.wav|3|2|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000765.wav|3|2|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000766.wav|3|2|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000767.wav|3|2|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000768.wav|3|2|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000769.wav|3|2|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_000770.wav|3|2|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001101.wav|3|3|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001102.wav|3|3|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001103.wav|3|3|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001104.wav|3|3|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001105.wav|3|3|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001106.wav|3|3|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001107.wav|3|3|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001108.wav|3|3|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001109.wav|3|3|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001110.wav|3|3|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001111.wav|3|3|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001112.wav|3|3|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001113.wav|3|3|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001114.wav|3|3|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001115.wav|3|3|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001116.wav|3|3|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001117.wav|3|3|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001118.wav|3|3|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001119.wav|3|3|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001120.wav|3|3|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001451.wav|3|4|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001452.wav|3|4|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001453.wav|3|4|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001454.wav|3|4|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001455.wav|3|4|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001456.wav|3|4|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001457.wav|3|4|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001458.wav|3|4|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001459.wav|3|4|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001460.wav|3|4|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001461.wav|3|4|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001462.wav|3|4|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001463.wav|3|4|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001464.wav|3|4|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001465.wav|3|4|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001466.wav|3|4|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001467.wav|3|4|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001468.wav|3|4|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001469.wav|3|4|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0004_001470.wav|3|4|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000051.wav|4|0|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000052.wav|4|0|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000053.wav|4|0|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000054.wav|4|0|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000055.wav|4|0|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000056.wav|4|0|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000057.wav|4|0|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000058.wav|4|0|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000059.wav|4|0|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000060.wav|4|0|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000061.wav|4|0|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000062.wav|4|0|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000063.wav|4|0|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000064.wav|4|0|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000065.wav|4|0|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000066.wav|4|0|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000067.wav|4|0|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000068.wav|4|0|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000069.wav|4|0|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000070.wav|4|0|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000401.wav|4|1|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000402.wav|4|1|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000403.wav|4|1|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000404.wav|4|1|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000405.wav|4|1|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000406.wav|4|1|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000407.wav|4|1|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000408.wav|4|1|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000409.wav|4|1|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000410.wav|4|1|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000411.wav|4|1|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000412.wav|4|1|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000413.wav|4|1|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000414.wav|4|1|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000415.wav|4|1|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000416.wav|4|1|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000417.wav|4|1|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000418.wav|4|1|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000419.wav|4|1|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000420.wav|4|1|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000751.wav|4|2|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000752.wav|4|2|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000753.wav|4|2|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000754.wav|4|2|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000755.wav|4|2|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000756.wav|4|2|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000757.wav|4|2|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000758.wav|4|2|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000759.wav|4|2|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000760.wav|4|2|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000761.wav|4|2|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000762.wav|4|2|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000763.wav|4|2|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000764.wav|4|2|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000765.wav|4|2|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000766.wav|4|2|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000767.wav|4|2|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000768.wav|4|2|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000769.wav|4|2|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_000770.wav|4|2|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001101.wav|4|3|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001102.wav|4|3|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001103.wav|4|3|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001104.wav|4|3|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001105.wav|4|3|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001106.wav|4|3|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001107.wav|4|3|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001108.wav|4|3|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001109.wav|4|3|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001110.wav|4|3|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001111.wav|4|3|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001112.wav|4|3|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001113.wav|4|3|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001114.wav|4|3|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001115.wav|4|3|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001116.wav|4|3|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001117.wav|4|3|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001118.wav|4|3|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001119.wav|4|3|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001120.wav|4|3|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001451.wav|4|4|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001452.wav|4|4|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001453.wav|4|4|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001454.wav|4|4|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001455.wav|4|4|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001456.wav|4|4|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001457.wav|4|4|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001458.wav|4|4|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001459.wav|4|4|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001460.wav|4|4|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001461.wav|4|4|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001462.wav|4|4|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001463.wav|4|4|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001464.wav|4|4|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001465.wav|4|4|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001466.wav|4|4|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001467.wav|4|4|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001468.wav|4|4|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001469.wav|4|4|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0005_001470.wav|4|4|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000051.wav|5|0|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000052.wav|5|0|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000053.wav|5|0|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000054.wav|5|0|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000055.wav|5|0|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000056.wav|5|0|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000057.wav|5|0|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000058.wav|5|0|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000059.wav|5|0|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000060.wav|5|0|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000061.wav|5|0|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000062.wav|5|0|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000063.wav|5|0|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000064.wav|5|0|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000065.wav|5|0|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000066.wav|5|0|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000067.wav|5|0|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000068.wav|5|0|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000069.wav|5|0|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000070.wav|5|0|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000401.wav|5|1|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000402.wav|5|1|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000403.wav|5|1|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000404.wav|5|1|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000405.wav|5|1|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000406.wav|5|1|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000407.wav|5|1|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000408.wav|5|1|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000409.wav|5|1|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000410.wav|5|1|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000411.wav|5|1|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000412.wav|5|1|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000413.wav|5|1|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000414.wav|5|1|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000415.wav|5|1|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000416.wav|5|1|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000417.wav|5|1|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000418.wav|5|1|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000419.wav|5|1|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000420.wav|5|1|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000751.wav|5|2|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000752.wav|5|2|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000753.wav|5|2|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000754.wav|5|2|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000755.wav|5|2|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000756.wav|5|2|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000757.wav|5|2|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000758.wav|5|2|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000759.wav|5|2|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000760.wav|5|2|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000761.wav|5|2|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000762.wav|5|2|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000763.wav|5|2|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000764.wav|5|2|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000765.wav|5|2|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000766.wav|5|2|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000767.wav|5|2|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000768.wav|5|2|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000769.wav|5|2|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_000770.wav|5|2|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001101.wav|5|3|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001102.wav|5|3|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001103.wav|5|3|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001104.wav|5|3|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001105.wav|5|3|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001106.wav|5|3|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001107.wav|5|3|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001108.wav|5|3|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001109.wav|5|3|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001110.wav|5|3|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001111.wav|5|3|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001112.wav|5|3|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001113.wav|5|3|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001114.wav|5|3|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001115.wav|5|3|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001116.wav|5|3|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001117.wav|5|3|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001118.wav|5|3|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001119.wav|5|3|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001120.wav|5|3|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001451.wav|5|4|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001452.wav|5|4|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001453.wav|5|4|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001454.wav|5|4|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001455.wav|5|4|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001456.wav|5|4|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001457.wav|5|4|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001458.wav|5|4|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001459.wav|5|4|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001460.wav|5|4|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001461.wav|5|4|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001462.wav|5|4|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001463.wav|5|4|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001464.wav|5|4|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001465.wav|5|4|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001466.wav|5|4|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001467.wav|5|4|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001468.wav|5|4|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001469.wav|5|4|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0006_001470.wav|5|4|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000051.wav|6|0|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000052.wav|6|0|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000053.wav|6|0|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000054.wav|6|0|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000055.wav|6|0|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000056.wav|6|0|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000057.wav|6|0|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000058.wav|6|0|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000059.wav|6|0|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000060.wav|6|0|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000061.wav|6|0|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000062.wav|6|0|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000063.wav|6|0|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000064.wav|6|0|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000065.wav|6|0|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000066.wav|6|0|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000067.wav|6|0|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000068.wav|6|0|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000069.wav|6|0|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000070.wav|6|0|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000401.wav|6|1|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000402.wav|6|1|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000403.wav|6|1|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000404.wav|6|1|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000405.wav|6|1|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000406.wav|6|1|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000407.wav|6|1|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000408.wav|6|1|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000409.wav|6|1|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000410.wav|6|1|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000411.wav|6|1|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000412.wav|6|1|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000413.wav|6|1|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000414.wav|6|1|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000415.wav|6|1|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000416.wav|6|1|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000417.wav|6|1|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000418.wav|6|1|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000419.wav|6|1|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000420.wav|6|1|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000751.wav|6|2|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000752.wav|6|2|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000753.wav|6|2|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000754.wav|6|2|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000755.wav|6|2|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000756.wav|6|2|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000757.wav|6|2|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000758.wav|6|2|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000759.wav|6|2|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000760.wav|6|2|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000761.wav|6|2|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000762.wav|6|2|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000763.wav|6|2|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000764.wav|6|2|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000765.wav|6|2|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000766.wav|6|2|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000767.wav|6|2|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000768.wav|6|2|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000769.wav|6|2|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_000770.wav|6|2|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001101.wav|6|3|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001102.wav|6|3|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001103.wav|6|3|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001104.wav|6|3|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001105.wav|6|3|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001106.wav|6|3|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001107.wav|6|3|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001108.wav|6|3|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001109.wav|6|3|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001110.wav|6|3|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001111.wav|6|3|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001112.wav|6|3|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001113.wav|6|3|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001114.wav|6|3|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001115.wav|6|3|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001116.wav|6|3|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001117.wav|6|3|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001118.wav|6|3|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001119.wav|6|3|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001120.wav|6|3|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001451.wav|6|4|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001452.wav|6|4|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001453.wav|6|4|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001454.wav|6|4|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001455.wav|6|4|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001456.wav|6|4|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001457.wav|6|4|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001458.wav|6|4|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001459.wav|6|4|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001460.wav|6|4|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001461.wav|6|4|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001462.wav|6|4|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001463.wav|6|4|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001464.wav|6|4|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001465.wav|6|4|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001466.wav|6|4|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001467.wav|6|4|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001468.wav|6|4|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001469.wav|6|4|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0007_001470.wav|6|4|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000051.wav|7|0|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000052.wav|7|0|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000053.wav|7|0|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000054.wav|7|0|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000055.wav|7|0|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000056.wav|7|0|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000057.wav|7|0|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000058.wav|7|0|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000059.wav|7|0|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000060.wav|7|0|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000061.wav|7|0|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000062.wav|7|0|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000063.wav|7|0|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000064.wav|7|0|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000065.wav|7|0|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000066.wav|7|0|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000067.wav|7|0|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000068.wav|7|0|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000069.wav|7|0|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000070.wav|7|0|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000401.wav|7|1|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000402.wav|7|1|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000403.wav|7|1|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000404.wav|7|1|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000405.wav|7|1|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000406.wav|7|1|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000407.wav|7|1|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000408.wav|7|1|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000409.wav|7|1|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000410.wav|7|1|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000411.wav|7|1|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000412.wav|7|1|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000413.wav|7|1|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000414.wav|7|1|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000415.wav|7|1|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000416.wav|7|1|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000417.wav|7|1|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000418.wav|7|1|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000419.wav|7|1|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000420.wav|7|1|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000751.wav|7|2|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000752.wav|7|2|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000753.wav|7|2|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000754.wav|7|2|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000755.wav|7|2|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000756.wav|7|2|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000757.wav|7|2|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000758.wav|7|2|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000759.wav|7|2|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000760.wav|7|2|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000761.wav|7|2|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000762.wav|7|2|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000763.wav|7|2|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000764.wav|7|2|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000765.wav|7|2|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000766.wav|7|2|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000767.wav|7|2|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000768.wav|7|2|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000769.wav|7|2|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_000770.wav|7|2|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001101.wav|7|3|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001102.wav|7|3|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001103.wav|7|3|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001104.wav|7|3|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001105.wav|7|3|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001106.wav|7|3|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001107.wav|7|3|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001108.wav|7|3|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001109.wav|7|3|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001110.wav|7|3|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001111.wav|7|3|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001112.wav|7|3|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001113.wav|7|3|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001114.wav|7|3|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001115.wav|7|3|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001116.wav|7|3|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001117.wav|7|3|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001118.wav|7|3|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001119.wav|7|3|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001120.wav|7|3|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001451.wav|7|4|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001452.wav|7|4|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001453.wav|7|4|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001454.wav|7|4|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001455.wav|7|4|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001456.wav|7|4|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001457.wav|7|4|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001458.wav|7|4|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001459.wav|7|4|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001460.wav|7|4|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001461.wav|7|4|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001462.wav|7|4|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001463.wav|7|4|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001464.wav|7|4|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001465.wav|7|4|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001466.wav|7|4|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001467.wav|7|4|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001468.wav|7|4|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001469.wav|7|4|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0008_001470.wav|7|4|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000051.wav|8|0|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000052.wav|8|0|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000053.wav|8|0|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000054.wav|8|0|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000055.wav|8|0|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000056.wav|8|0|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000057.wav|8|0|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000058.wav|8|0|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000059.wav|8|0|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000060.wav|8|0|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000061.wav|8|0|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000062.wav|8|0|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000063.wav|8|0|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000064.wav|8|0|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000065.wav|8|0|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000066.wav|8|0|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000067.wav|8|0|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000068.wav|8|0|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000069.wav|8|0|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000070.wav|8|0|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000401.wav|8|1|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000402.wav|8|1|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000403.wav|8|1|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000404.wav|8|1|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000405.wav|8|1|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000406.wav|8|1|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000407.wav|8|1|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000408.wav|8|1|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000409.wav|8|1|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000410.wav|8|1|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000411.wav|8|1|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000412.wav|8|1|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000413.wav|8|1|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000414.wav|8|1|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000415.wav|8|1|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000416.wav|8|1|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000417.wav|8|1|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000418.wav|8|1|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000419.wav|8|1|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000420.wav|8|1|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000751.wav|8|2|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000752.wav|8|2|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000753.wav|8|2|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000754.wav|8|2|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000755.wav|8|2|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000756.wav|8|2|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000757.wav|8|2|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000758.wav|8|2|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000759.wav|8|2|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000760.wav|8|2|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000761.wav|8|2|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000762.wav|8|2|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000763.wav|8|2|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000764.wav|8|2|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000765.wav|8|2|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000766.wav|8|2|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000767.wav|8|2|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000768.wav|8|2|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000769.wav|8|2|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_000770.wav|8|2|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001101.wav|8|3|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001102.wav|8|3|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001103.wav|8|3|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001104.wav|8|3|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001105.wav|8|3|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001106.wav|8|3|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001107.wav|8|3|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001108.wav|8|3|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001109.wav|8|3|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001110.wav|8|3|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001111.wav|8|3|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001112.wav|8|3|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001113.wav|8|3|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001114.wav|8|3|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001115.wav|8|3|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001116.wav|8|3|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001117.wav|8|3|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001118.wav|8|3|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001119.wav|8|3|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001120.wav|8|3|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001451.wav|8|4|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001452.wav|8|4|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001453.wav|8|4|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001454.wav|8|4|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001455.wav|8|4|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001456.wav|8|4|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001457.wav|8|4|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001458.wav|8|4|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001459.wav|8|4|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001460.wav|8|4|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001461.wav|8|4|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001462.wav|8|4|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001463.wav|8|4|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001464.wav|8|4|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001465.wav|8|4|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001466.wav|8|4|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001467.wav|8|4|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001468.wav|8|4|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001469.wav|8|4|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0009_001470.wav|8|4|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000051.wav|9|0|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000052.wav|9|0|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000053.wav|9|0|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000054.wav|9|0|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000055.wav|9|0|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000056.wav|9|0|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000057.wav|9|0|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000058.wav|9|0|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000059.wav|9|0|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000060.wav|9|0|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000061.wav|9|0|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000062.wav|9|0|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000063.wav|9|0|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000064.wav|9|0|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000065.wav|9|0|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000066.wav|9|0|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000067.wav|9|0|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000068.wav|9|0|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000069.wav|9|0|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000070.wav|9|0|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000401.wav|9|1|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000402.wav|9|1|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000403.wav|9|1|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000404.wav|9|1|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000405.wav|9|1|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000406.wav|9|1|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000407.wav|9|1|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000408.wav|9|1|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000409.wav|9|1|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000410.wav|9|1|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000411.wav|9|1|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000412.wav|9|1|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000413.wav|9|1|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000414.wav|9|1|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000415.wav|9|1|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000416.wav|9|1|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000417.wav|9|1|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000418.wav|9|1|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000419.wav|9|1|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000420.wav|9|1|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000751.wav|9|2|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000752.wav|9|2|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000753.wav|9|2|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000754.wav|9|2|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000755.wav|9|2|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000756.wav|9|2|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000757.wav|9|2|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000758.wav|9|2|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000759.wav|9|2|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000760.wav|9|2|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000761.wav|9|2|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000762.wav|9|2|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000763.wav|9|2|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000764.wav|9|2|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000765.wav|9|2|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000766.wav|9|2|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000767.wav|9|2|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000768.wav|9|2|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000769.wav|9|2|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_000770.wav|9|2|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001101.wav|9|3|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001102.wav|9|3|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001103.wav|9|3|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001104.wav|9|3|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001105.wav|9|3|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001106.wav|9|3|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001107.wav|9|3|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001108.wav|9|3|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001109.wav|9|3|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001110.wav|9|3|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001111.wav|9|3|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001112.wav|9|3|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001113.wav|9|3|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001114.wav|9|3|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001115.wav|9|3|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001116.wav|9|3|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001117.wav|9|3|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001118.wav|9|3|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001119.wav|9|3|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001120.wav|9|3|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001451.wav|9|4|sil m ei2 z0 g uan1 z0 x i5 z3 ^ ie2 z0 x v3 z1 t a1 z1 l ao3 z0 p o2 z1 h uei4 z2 x ie4 z0 l u4 z0 m i4 z0 m i4 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001452.wav|9|4|sil n i3 z0 b u4 z0 ^ ing1 z0 g ai1 z2 h ai4 z0 p a4 z2 k ai1 z0 sh iii3 z1 ^ i2 z0 d uan4 z1 x in1 z0 d e5 z1 g an3 z0 q ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001453.wav|9|4|sil ^ uo2 z1 k en3 z0 d ing4 z1 h uei4 z0 d e5 z3 n a4 z1 ^ i3 z0 h ou4 z2 ^ uo3 z1 b u2 z0 ^ uen4 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001454.wav|9|4|sil ^ uo3 z0 sh iii4 z2 j i1 z0 ^ v2 z1 r en2 z0 g ong1 z0 zh iii4 z0 n eng2 z1 x i4 z0 t ong3 z2 b ei4 z1 ch uang4 z0 z ao4 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001455.wav|9|4|sil t a1 z1 sh iii2 z0 j i4 z2 h uei4 z0 x ing2 z0 ch eng2 z2 ^ i4 z0 ^ iang3 z0 h ua4 z0 t an4 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001456.wav|9|4|sil ^ uo3 z1 c an1 z0 j ia1 z0 l e5 z2 ^ i2 z0 g e4 z1 ^ iou3 z0 g uan1 z1 q van2 z0 q iou2 z1 b ian4 z0 n uan3 z0 d e5 z1 j i2 z0 h uei4 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001457.wav|9|4|sil t iao4 z0 ^ u2 z1 h ao3 z0 n an2 z0 ^ ia5 z3 ^ uo3 z0 h ai2 z1 zh eng4 z0 z ai4 z1 l ian4 z1 j i1 z0 b en3 z0 g ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001458.wav|9|4|sil r ang4 z0 r en2 z1 k an4 z0 sh ang4 z0 q v4 z2 j iou4 z1 g an3 z0 d ao4 z1 k uan1 z0 g uang3 z3 q i4 z0 p o4 z1 f ei1 z0 f an2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001459.wav|9|4|sil zh iii3 z0 ^ iao4 z1 sh iii4 z1 ^ uo3 z0 n eng2 z1 ^ uan2 z1 h ao3 z0 d e5 z3 ^ uo3 z0 d ou1 z1 x i3 z0 h uan5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001460.wav|9|4|sil z uo4 z0 d i4 z0 t ie2 z2 zh iii3 z1 x v1 z0 ^ iao4 z1 d a4 z0 ^ ve1 z2 ^ er4 z0 sh iii2 z0 f en1 z0 zh ong1 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001461.wav|9|4|sil x ia4 z0 g e4 z0 ^ ve4 z2 ^ uo2 z1 j ie3 z0 j ie5 z1 ^ iao4 z1 j ie2 z0 h uen1 z0 l e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001462.wav|9|4|sil ^ uo3 z0 sh iii4 z1 sh uen4 z0 l u4 z1 g uo4 z0 l ai2 z1 g en1 z0 n i3 z1 g ao4 z0 b ie2 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001463.wav|9|4|sil n i3 z1 zh iii1 z0 d ao4 z2 ^ uo2 z0 h en3 z1 n u3 z0 l i4 z0 d e5 z2 z ai4 z1 j ie4 z0 j iou3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001464.wav|9|4|sil ^ uo3 z1 g ao4 z0 t uei4 z0 l e5 z3 ^ uan3 z0 sh ang4 z1 h uei2 z0 q v4 z1 p ai1 z1 g ei2 z0 n i3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001465.wav|9|4|sil ^ i4 z0 d ian2 z2 ^ ie3 z0 b u2 z1 ch a4 z3 x ian1 z2 b a3 z0 ^ uo4 z0 h ao3 z1 x ian4 z0 z ai4 z0 b a5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001466.wav|9|4|sil ^ uo3 z0 m en5 z1 k e2 z0 ^ i3 z1 q v4 z1 d iao4 z0 ^ v2 z3 l iao2 z0 t ian1 z2 h ai2 z0 ^ iou2 z1 ^ ie3 z0 ^ ing2 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001467.wav|9|4|sil n i3 z1 sh en1 z0 sh en1 z0 d e5 z2 ^ in4 z0 z ai4 z1 ^ uo3 z0 d e5 z1 n ao2 z0 h ai2 z0 l i3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001468.wav|9|4|sil ^ uo3 z1 ^ ing1 z0 g ai1 z0 g ei2 z1 n v3 z0 p eng2 z0 ^ iou5 z2 m ai3 z1 m ei2 z0 g uei4 z0 h ua1 z0 d e5 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001469.wav|9|4|sil ^ i3 z0 h ou4 z2 b u2 z0 ^ iao4 z1 h e1 z2 n a4 z0 m e5 z1 d uo1 z0 l e5 z3 sh ang1 z1 sh en1 z0 t i3 z3 sil
+/data/DATA/ESD-wavs-22k/0010_001470.wav|9|4|sil x in1 z0 d ong4 z2 b u4 z0 r u2 z1 x ing2 z0 d ong4 z3 ^ uo3 z1 b u2 z0 t ai4 z2 sh an4 z0 ch ang2 z1 m ai4 z0 m eng2 z3 sil
