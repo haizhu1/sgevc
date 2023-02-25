@@ -40,6 +40,9 @@ We also provide the [SGEVC-1 model](https://drive.google.com/file/d/1uzO39mKxiZi
 ## Inference
 python inference_VC.py
 
+## Training 
+python train.py  -c configs/ESD_base.json -m ESD_chinese_semi_3_gamma_1.0_alpha_0.1
+
 ## Repository
 
 - [The Implementation of StarGAN-EVC](https://github.com/glam-imperial/EmotionalConversionStarGAN)
