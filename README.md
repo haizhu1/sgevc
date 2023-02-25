@@ -17,6 +17,7 @@ This paper demonstrates that using as little as 1% supervised
 data is sufficient to achieve emotional voice conversion. Our
 experimental results show that our proposed model achieves the
 state-of-the-art (SOTA) performance.
+
 Visit our [demo](https://paper2demo.github.io/sgevc/) for audio samples.
 
 We also provide the [SGEVC-1 model](https://drive.google.com/file/d/1uzO39mKxiZiirobls1u1ogba65fA6n22/view?usp=sharing).
@@ -36,6 +37,7 @@ We also provide the [SGEVC-1 model](https://drive.google.com/file/d/1uzO39mKxiZi
 0. Install python requirements. Please refer [requirements.txt](requirements.txt)
     1. You need to install sox first: `apt-get install sox`
 0. Download pretrained SGEVC-1 model[SGEVC-1 model](https://drive.google.com/file/d/1uzO39mKxiZiirobls1u1ogba65fA6n22/view?usp=sharing)
+0. Download datasets [ESD dataset](https://github.com/HLTSingapore/Emotional-Speech-Data)
 
 ## Inference
 python inference_VC.py
